@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Usamaujay
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front-end Development 
 - 📫 How to reach me ... mail me on : usamajaved481@gmail.com
 
